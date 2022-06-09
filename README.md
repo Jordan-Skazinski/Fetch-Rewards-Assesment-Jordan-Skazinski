@@ -16,7 +16,7 @@
 ![postTransactionRouteWithOneTransaction](https://user-images.githubusercontent.com/94482945/172914896-7b86131d-b73d-4bce-a85d-bbcf4fd228d4.PNG)
 ## The Balances route after single transaction request
 ![GetBalancesAfterSingleTransaction](https://user-images.githubusercontent.com/94482945/172914890-42eca454-1fd2-40ff-935a-d349b85b4419.PNG)
-## The Transactions route with a multiple transactions request
+## The Transactions route with multiple transactions request
 ![postTransactionRouteWithMultipleTransactions](https://user-images.githubusercontent.com/94482945/172914894-9e57b674-0464-40fd-acc1-1e43e0ee83c2.PNG)
 ## The Balances route after multiple transaction request
 ![GetBalancesAfterMultipleTransactionsArray](https://user-images.githubusercontent.com/94482945/172914889-84d06fe7-c43d-4eff-9be5-6e2c83b18a05.PNG)
